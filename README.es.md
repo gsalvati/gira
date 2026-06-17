@@ -1,3 +1,4 @@
+# G.I.R.A
 # Firmware de Tocadiscos Inteligente
 
 *Lea esto en otros idiomas: [English](README.md) | [Português](README.pt.md)*
@@ -50,7 +51,16 @@ Este repositorio contiene el firmware para un proyecto de **Tocadiscos Inteligen
 * **Actuador de elevación**: Micro Servo
 * **Framework**: PlatformIO con interfaz Arduino
 
-## 📌 Configuración de pines (Pinout)
+## 🧩 Archivos para impresión 3D
+Los modelos 3D necesarios para imprimir están disponibles en `assets/stl`. Descarga el archivo ZIP con todos los STL o el proyecto 3MF antes de imprimir:
+* [Descargar todos los archivos STL (ZIP)](assets/stl/gira-stl.zip)
+* [Descargar proyecto 3MF](assets/stl/GIRA.3mf)
+
+## � Esquemáticos y documentación
+Los esquemáticos de cableado están disponibles en [assets/Schematics.pdf](assets/Schematics.pdf). Descárgalo antes de conectar los componentes.
+Para más información y explicaciones sobre el tocadiscos, visita [https://labs.salvati.com.br](https://labs.salvati.com.br).
+
+## �📌 Configuración de pines (Pinout)
 Según el mapeo del proyecto:
 * **TMC2209 (UART)**: `RX = Pin 5` / `TX = Pin 4` / `Enable = Pin 2`
 * **Servo**: `Pin 10`

@@ -1,3 +1,4 @@
+# G.I.R.A
 # Smart Record Player Firmware
 
 *Read this in other languages: [Português](README.pt.md) | [Español](README.es.md)*
@@ -50,7 +51,16 @@ This repository contains the firmware for a **Smart Record Player** project base
 * **Lift Actuator**: Micro Servo
 * **Framework**: PlatformIO with Arduino interface
 
-## 📌 Pin Configuration (Pinout)
+## 🧩 3D Printable Files
+The 3D models required for printing are available in `assets/stl`. Download either the full ZIP archive or the individual 3MF project before printing:
+* [Download all STL files (ZIP)](assets/stl/gira-stl.zip)
+* [Download 3MF project](assets/stl/GIRA.3mf)
+
+## � Schematics and Documentation
+The wiring schematics are available at [assets/Schematics.pdf](assets/Schematics.pdf). Download it before connecting the components.
+For more information and project explanations, visit [https://labs.salvati.com.br](https://labs.salvati.com.br).
+
+## �📌 Pin Configuration (Pinout)
 According to the project mapping:
 * **TMC2209 (UART)**: `RX = Pin 5` / `TX = Pin 4` / `Enable = Pin 2`
 * **Servo Motor**: `Pin 10`

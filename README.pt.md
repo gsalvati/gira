@@ -1,3 +1,4 @@
+# G.I.R.A
 # Smart Record Player Firmware
 
 *Leia isso em outros idiomas: [English](README.md) | [Español](README.es.md)*
@@ -50,7 +51,16 @@ Este repositório contém o firmware de um projeto de **Toca-discos Inteligente 
 * **Atuador de Elevação**: Micro Servo
 * **Framework**: PlatformIO com interface Arduino
 
-## 📌 Configuração de Pinos (Pinout)
+## 🧩 Arquivos para Impressão 3D
+Os modelos 3D necessários para impressão estão disponíveis em `assets/stl`. Baixe o arquivo ZIP com todos os STLs ou o projeto 3MF antes de imprimir:
+* [Baixar todos os arquivos STL (ZIP)](assets/stl/gira-stl.zip)
+* [Baixar projeto 3MF](assets/stl/GIRA.3mf)
+
+## � Esquemáticos e Documentação
+Os esquemáticos de conexão estão disponíveis em [assets/Schematics.pdf](assets/Schematics.pdf). Baixe-o antes de conectar os componentes.
+Para mais informações e explicações sobre o toca-discos, visite [https://labs.salvati.com.br](https://labs.salvati.com.br).
+
+## �📌 Configuração de Pinos (Pinout)
 Conforme mapeamento do projeto:
 * **TMC2209 (UART)**: `RX = Pino 5` / `TX = Pino 4` / `Enable = Pino 2`
 * **Servo Motor**: `Pino 10`

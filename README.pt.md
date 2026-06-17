@@ -1,14 +1,14 @@
 # Smart Record Player Firmware
 
-*Leia isso em outro idioma: [English](README.md)*
+*Leia isso em outros idiomas: [English](README.md) | [Español](README.es.md)*
 
 Este repositório contém o firmware de um projeto de **Toca-discos Inteligente (Smart Record Player)** baseado no microcontrolador ESP32-C3. Ele utiliza controle de motor de passo de alta precisão, leitura angular avançada e interface web para oferecer uma experiência automatizada e moderna na reprodução de discos de vinil.
 
 ## 📸 Preview da Interface Web
 
 <p align="center">
-  <a href="assets/webApp-01.png"><img src="assets/webApp-01.png" width="45%" alt="Interface Web 1"></a>
-  <a href="assets/webApp-02.png"><img src="assets/webApp-02.png" width="45%" alt="Interface Web 2"></a>
+  <a href="assets/webApp-01.png"><img src="assets/webApp-03.png" width="45%" alt="Interface Web 1"></a>
+  <a href="assets/webApp-02.png"><img src="assets/webApp-04.png" width="45%" alt="Interface Web 2"></a>
 </p>
 
 ## 🌟 Características e Funcionalidades

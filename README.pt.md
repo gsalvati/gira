@@ -8,8 +8,8 @@ Este repositório contém o firmware de um projeto de **Toca-discos Inteligente 
 ## 📸 Preview da Interface Web
 
 <p align="center">
-  <a href="assets/webApp-01.png"><img src="assets/webApp-03.png" width="45%" alt="Interface Web 1"></a>
-  <a href="assets/webApp-02.png"><img src="assets/webApp-04.png" width="45%" alt="Interface Web 2"></a>
+  <a href="assets/webApp-01.png"><img src="assets/webApp-03.jpeg" width="45%" alt="Interface Web 1"></a>
+  <a href="assets/webApp-02.png"><img src="assets/webApp-04.jpeg" width="45%" alt="Interface Web 2"></a>
 </p>
 
 ## 🌟 Características e Funcionalidades

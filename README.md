@@ -8,8 +8,8 @@ This repository contains the firmware for a **Smart Record Player** project base
 ## 📸 Web Interface Preview
 
 <p align="center">
-  <a href="assets/webApp-01.png"><img src="assets/webApp-03.png" width="45%" alt="Web Interface 1"></a>
-  <a href="assets/webApp-02.png"><img src="assets/webApp-04.png" width="45%" alt="Web Interface 2"></a>
+  <a href="assets/webApp-01.png"><img src="assets/webApp-03.jpeg" width="45%" alt="Web Interface 1"></a>
+  <a href="assets/webApp-02.png"><img src="assets/webApp-04.jpeg" width="45%" alt="Web Interface 2"></a>
 </p>
 
 ## 🌟 Features and Functionalities
